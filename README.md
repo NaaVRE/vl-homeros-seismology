@@ -1,6 +1,9 @@
-# _virtual lab name_
-_abstract_
+# Homeros-Seismology
+Creating and visualizing earthquake catalogs using machine-learning tools and algorithms for small (or larger) datasets
 
 ### keywords
-- _keyword1_
-- _keyword2_
+- Seismology
+- Machine-Learning
+- Earthquakes
+- Geosciences
+- Maps
